@@ -1,0 +1,239 @@
+
+2023-02-02 12:03:21.912 4516-4516/? W/main: type=1400 audit(0.0:160345): avc: denied { write } for name="tasks" dev="tmpfs" ino=1334 scontext=u:r:zygote:s0 tcontext=u:object_r:device:s0 tclass=file permissive=0 app=com.example.aftestallen
+2023-02-02 12:03:21.922 4516-4516/? I/ple.aftestalle: Late-enabling -Xcheck:jni
+2023-02-02 12:03:21.959 4516-4516/? I/ple.aftestalle: Reinit property: dalvik.vm.checkjni= false
+2023-02-02 12:03:21.959 4516-4516/? I/ple.aftestalle: ReInitProperties: persist.vm.debug.dumpapi= false
+2023-02-02 12:03:21.969 4516-4516/? I/AndroidRuntime: RuntimeInit: Starting application from zygote
+2023-02-02 12:03:21.970 4516-4516/? D/AndroidRuntime: Entered RuntimeInit!
+2023-02-02 12:03:21.980 4516-4516/? I/AndroidRuntime: MethodAndArgsCaller run()
+2023-02-02 12:03:22.007 4516-4516/? D/ActivityThread: Attach thread to application
+2023-02-02 12:03:22.069 4516-4516/com.example.aftestallen D/CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10350; state: ENABLED
+2023-02-02 12:03:22.072 4516-4516/com.example.aftestallen I/Typeface: fontManager.getInitFontWeightScale:0.85
+2023-02-02 12:03:22.076 4516-4552/com.example.aftestallen I/ActivityThread: Init compatible state: true
+2023-02-02 12:03:22.077 4516-4552/com.example.aftestallen D/HwFrameworkSecurityPartsFactory: HwFrameworkSecurityPartsFactory in.
+2023-02-02 12:03:22.077 4516-4552/com.example.aftestallen I/HwFrameworkSecurityPartsFactory: add HwFrameworkSecurityPartsFactory to memory.
+2023-02-02 12:03:22.081 4516-4552/com.example.aftestallen D/BehaviorCollectManager: hook process for AI virus second
+2023-02-02 12:03:22.082 4516-4552/com.example.aftestallen I/BehaviorCollectManager: bindAnalyzerService: huawei.android.security.IAppBehaviorDataAnalyzer$Stub$Proxy@4e3d044 pid:4516
+2023-02-02 12:03:22.098 4516-4516/com.example.aftestallen I/LoadedApk: createSharedLibrariesLoaders::sharedLibraries is null
+2023-02-02 12:03:22.099 4516-4516/com.example.aftestallen W/ple.aftestalle: OpenDexFilesFromOat: open oat file failed and fallback to load dex file from apk, class_loader = 0x7ff4f0dd64 context = 0xb400007a7023c5b0 dex_location = /data/app/~~sTEmAl2L1tEHst_szuZy9w==/com.example.aftestallen-079nR-n-n0TJh1SQOwRMag==/base.apk
+2023-02-02 12:03:22.184 4516-4516/com.example.aftestallen V/GraphicsEnvironment: ANGLE Developer option for 'com.example.aftestallen' set to: 'default'
+2023-02-02 12:03:22.184 4516-4516/com.example.aftestallen V/GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+2023-02-02 12:03:22.186 4516-4516/com.example.aftestallen D/NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+2023-02-02 12:03:22.189 4516-4516/com.example.aftestallen D/NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: true
+2023-02-02 12:03:22.194 4516-4552/com.example.aftestallen I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.example.aftestallen#10350#256
+2023-02-02 12:03:22.194 4516-4552/com.example.aftestallen I/HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=0 newCnt=1
+2023-02-02 12:03:22.195 4516-4552/com.example.aftestallen I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.example.aftestallen#10350#0
+2023-02-02 12:03:22.195 4516-4552/com.example.aftestallen I/HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+2023-02-02 12:03:22.203 4516-4552/com.example.aftestallen I/AwareBitmapCacher: init processName:com.example.aftestallen pid=4516 uid=10350
+2023-02-02 12:03:22.204 4516-4577/com.example.aftestallen E/AwareLog: AtomicFileUtils: readFileLines file not exist: android.util.AtomicFile@8ade3ba
+2023-02-02 12:03:22.216 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: CFG: No configuration found in cache
+2023-02-02 12:03:22.221 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: new task added: RC_CDN-UpdateRemoteConfiguration-1
+2023-02-02 12:03:22.222 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: starting task execution: RC_CDN-UpdateRemoteConfiguration-1
+2023-02-02 12:03:22.222 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: Install referrer is allowed
+2023-02-02 12:03:22.223 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: Connecting to Install Referrer Library...
+2023-02-02 12:03:22.224 4516-4583/com.example.aftestallen I/AppsFlyer_6.9.0: CFG: active config is missing - fetching from CDN
+2023-02-02 12:03:22.224 4516-4583/com.example.aftestallen I/AppsFlyer_6.9.0: CFG: Cached config is expired, updating...
+2023-02-02 12:03:22.226 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [41496594] GET:https://cdn-settings.appsflyersdk.com/android/v1/fc21f9c811939f0fa4162eee055f5787efc0729376346950e99991848660989b/settings
+2023-02-02 12:03:22.238 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: Initializing AppsFlyer SDK: (v6.9.0.126)
+2023-02-02 12:03:22.242 4516-4516/com.example.aftestallen I/AppsFlyer_6.9.0: Starting AppsFlyer: (v6.9.0.126)
+2023-02-02 12:03:22.242 4516-4516/com.example.aftestallen I/AppsFlyer_6.9.0: Build Number: 126
+2023-02-02 12:03:22.243 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: tried to add already running task: RC_CDN-UpdateRemoteConfiguration-2
+2023-02-02 12:03:22.243 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: new task added: LOAD_CACHE-LoadCachedRequests-3
+2023-02-02 12:03:22.243 4516-4516/com.example.aftestallen I/AppsFlyer_6.9.0: appsflyer_backup_rules.xml detected, using AppsFlyer defined backup rules for AppsFlyer SDK data
+2023-02-02 12:03:22.244 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: registerValidatorListener called
+2023-02-02 12:03:22.245 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: starting task execution: LOAD_CACHE-LoadCachedRequests-3
+2023-02-02 12:03:22.245 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: execution finished for LOAD_CACHE-LoadCachedRequests-3, result: SUCCESS
+2023-02-02 12:03:22.248 4516-4516/com.example.aftestallen I/HwTypeface: updateFont: scale=1.0
+2023-02-02 12:03:22.249 4516-4584/com.example.aftestallen I/StubController: system app validUid:10350, isFriend:true
+2023-02-02 12:03:22.297 4516-4516/com.example.aftestallen W/FontFamily: updateFonts: mFonts is null for android.graphics.fonts.FontFamily@eccfc0c
+2023-02-02 12:03:22.319 4516-4516/com.example.aftestallen I/ActivityThread: finishPreloaded preloadStatus 0
+2023-02-02 12:03:22.320 4516-4516/com.example.aftestallen I/RmeSchedManager: init Rme, version is: v1.0
+2023-02-02 12:03:22.320 4516-4516/com.example.aftestallen I/RmeSchedManager: init Rme, version is: v1.0
+2023-02-02 12:03:22.320 4516-4516/com.example.aftestallen I/RtgSchedEvent: current pid:4516 AppType:-1
+2023-02-02 12:03:22.320 4516-4516/com.example.aftestallen I/LaunchActivityItem: execute start, token = android.os.BinderProxy@a3c57f3
+2023-02-02 12:03:22.330 4516-4516/com.example.aftestallen D/OpenGLRenderer: disableOutlineDraw is true
+2023-02-02 12:03:22.340 4516-4617/com.example.aftestallen I/OpenGLRenderer: RenderThread: progress name = [com.example.aftestallen], viewCornerType = 0, g2param1 = 0.000000, g2param2 = 0.000000
+2023-02-02 12:03:22.340 4516-4621/com.example.aftestallen I/iGraphics: [0020080c] pn: com.example.aftestallen, p: 4516
+2023-02-02 12:03:22.340 4516-4621/com.example.aftestallen I/iGraphics: [0030080c] no spt app: com.example.aftestallen
+2023-02-02 12:03:22.393 4516-4516/com.example.aftestallen V/ActivityThread: callActivityOnCreate
+2023-02-02 12:03:22.415 4516-4516/com.example.aftestallen I/DecorView: navBarColor: 0 statusBarColor: 0 statusInsets: null navInsets: null
+2023-02-02 12:03:22.415 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:ff000000
+2023-02-02 12:03:22.415 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 0 showView:false color:ff000000
+2023-02-02 12:03:22.415 4516-4516/com.example.aftestallen I/DecorView: navBarColor: 0 statusBarColor: 0 statusInsets: null navInsets: null
+2023-02-02 12:03:22.415 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:ff000000
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 0 showView:false color:ff000000
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: navBarColor: fffcfcfc statusBarColor: ff3700b3 statusInsets: null navInsets: null
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:fffcfcfc
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 0 showView:false color:ff3700b3
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: navBarColor: fffcfcfc statusBarColor: ff3700b3 statusInsets: null navInsets: null
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:fffcfcfc
+2023-02-02 12:03:22.416 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 0 showView:false color:ff3700b3
+2023-02-02 12:03:22.417 4516-4516/com.example.aftestallen I/DecorView[]: pkgName:com.example.aftestallen old windowMode:0 new windoMode:1, isFixedSize:false, isStackNeedCaptionView:true
+2023-02-02 12:03:22.418 4516-4516/com.example.aftestallen D/DecorView[]: window mode != magicWin, return false
+2023-02-02 12:03:22.428 4516-4516/com.example.aftestallen I/DecorView: navBarColor: fffcfcfc statusBarColor: ff3700b3 statusInsets: null navInsets: null
+2023-02-02 12:03:22.428 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:fffcfcfc
+2023-02-02 12:03:22.428 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 0 showView:false color:ff3700b3
+2023-02-02 12:03:22.435 4516-4516/com.example.aftestallen I/OverScrollerOptimization: start init SmartSlideOverScroller and get the overscroller config
+2023-02-02 12:03:22.435 4516-4516/com.example.aftestallen I/OverScrollerOptimization: get the overscroller config
+2023-02-02 12:03:22.466 4516-4516/com.example.aftestallen W/ple.aftestalle: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-02-02 12:03:22.467 4516-4516/com.example.aftestallen W/ple.aftestalle: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-02-02 12:03:22.511 4516-4516/com.example.aftestallen I/ActivityThread: add activity client record, r= ActivityRecord{af47363 token=android.os.BinderProxy@a3c57f3 {com.example.aftestallen/com.example.aftestallen.MainActivity}} token= android.os.BinderProxy@a3c57f3
+2023-02-02 12:03:22.514 4516-4516/com.example.aftestallen I/DecorView: navBarColor: fffcfcfc statusBarColor: ff3700b3 statusInsets: null navInsets: null
+2023-02-02 12:03:22.514 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:fffcfcfc
+2023-02-02 12:03:22.514 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 0 showView:false color:ff3700b3
+2023-02-02 12:03:22.519 4516-4516/com.example.aftestallen I/HwPartMagicWindowFactory: add android.common.HwPartMagicWindowFactoryImpl to memory.
+2023-02-02 12:03:22.520 4516-4623/com.example.aftestallen I/AppsFlyer_6.9.0: onBecameForeground
+2023-02-02 12:03:22.520 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: tried to add already running task: RC_CDN-UpdateRemoteConfiguration-4
+2023-02-02 12:03:22.523 4516-4623/com.example.aftestallen I/SensorManager: not HwSensor HAL implement
+2023-02-02 12:03:22.527 4516-4623/com.example.aftestallen I/SensorManager: Warning: app missing HIGH_SAMPLING_RATE_SENSORS permission, package: com.example.aftestallen
+2023-02-02 12:03:22.530 4516-4516/com.example.aftestallen D/MouseWheelSynthesizer: mMoveStepInDp: 64, mMoveStepInPixel: 212, mUpTimeDelayed: 100
+2023-02-02 12:03:22.532 4516-4516/com.example.aftestallen I/HwPartPowerOfficeFactory: add HwPartPowerOfficeFactoryImpl to memory.
+2023-02-02 12:03:22.533 4516-4516/com.example.aftestallen D/ViewRootImpl: ViewRootImpl mIsInProductivePCDisplay: false
+2023-02-02 12:03:22.545 4516-4623/com.example.aftestallen D/AppsFlyer_6.9.0: No deep link detected
+2023-02-02 12:03:22.545 4516-4623/com.example.aftestallen I/AppsFlyer_6.9.0: Sending first launch for this session!
+2023-02-02 12:03:22.547 4516-4636/com.example.aftestallen D/SensorManager: 0xb400007a8c3c8c40 addFd fd=124
+2023-02-02 12:03:22.548 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: sendWithEvent from activity: com.example.aftestallen.MyApplication
+2023-02-02 12:03:22.548 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: Trying to fetch GAID..
+2023-02-02 12:03:22.551 4516-4516/com.example.aftestallen D/InputEventReceiver: dispatchInputInterval 1000000
+2023-02-02 12:03:22.554 4516-4516/com.example.aftestallen I/RmeSchedManager: init Rme, version is: v1.0
+2023-02-02 12:03:22.554 4516-4516/com.example.aftestallen I/RtgSchedEvent: current pid:4516 AppType:-1
+2023-02-02 12:03:22.554 4516-4516/com.example.aftestallen I/TopResumedActivityChangeItem: execute start, ActivityClientRecord = ActivityRecord{af47363 token=android.os.BinderProxy@a3c57f3 {com.example.aftestallen/com.example.aftestallen.MainActivity}}
+2023-02-02 12:03:22.555 4516-4636/com.example.aftestallen D/SensorManager: 0xb400007a8c3c8c90 addFd fd=127
+2023-02-02 12:03:22.557 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: InstallReferrer connected
+2023-02-02 12:03:22.558 4516-4637/com.example.aftestallen W/ContextImpl: Failed to ensure /data/user/0/com.google.android.gms/shared_prefs: mkdir failed: ENOENT (No such file or directory)
+2023-02-02 12:03:22.567 4516-4636/com.example.aftestallen D/SensorManager: 0xb400007a8c3c8ce0 addFd fd=128
+2023-02-02 12:03:22.577 4516-4516/com.example.aftestallen D/AppsFlyer_6.9.0: Install Referrer collected locally
+2023-02-02 12:03:22.589 4516-4656/com.example.aftestallen D/HiTouch_PressGestureDetector: onAttached, package=com.example.aftestallen, windowType=1, mIsHiTouchRestricted=false
+2023-02-02 12:03:22.593 4516-4516/com.example.aftestallen I/DecorView: navBarColor: fffcfcfc statusBarColor: ff3700b3 statusInsets: Insets{left=0, top=141, right=0, bottom=0} navInsets: Insets{left=0, top=0, right=0, bottom=0}
+2023-02-02 12:03:22.593 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:1 size: 0 showView:false color:fffcfcfc
+2023-02-02 12:03:22.593 4516-4516/com.example.aftestallen I/DecorView: updateColorViewInt type:0 size: 141 showView:true color:ff3700b3
+2023-02-02 12:03:22.606 4516-4516/com.example.aftestallen D/BufferQueueCore: BufferQueueCore: mDebugHwFlow=0, mIsBufferQueueLogVSupport=0.
+2023-02-02 12:03:22.607 4516-4516/com.example.aftestallen D/InsetsSourceConsumer: setControl mType:0, requestedVisible:true, getLeash:null, needAnimation:false, mIsAnimationPending:false, getRootViewTitle:com.example.aftestallen/com.example.aftestallen.MainActivity
+2023-02-02 12:03:22.614 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [41496594] response code:200 OK
+     body:{"features":{},"ver":"default.v1.1637149529"}
+     took 388ms
+2023-02-02 12:03:22.615 4516-4617/com.example.aftestallen I/ple.aftestalle: package[com.example.aftestallen] pid[4516] game[0]
+2023-02-02 12:03:22.619 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: CFG: Config successfully updated, timeToLive: 86400 seconds
+2023-02-02 12:03:22.619 4516-4617/com.example.aftestallen I/OpenGLRenderer: CacheManager width 1200, height 2640
+2023-02-02 12:03:22.619 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: execution finished for RC_CDN-UpdateRemoteConfiguration-1, result: SUCCESS
+2023-02-02 12:03:22.621 4516-4680/com.example.aftestallen I/Gralloc4: mapper 4.x is not supported
+2023-02-02 12:03:22.622 4516-4680/com.example.aftestallen W/Gralloc3: mapper 3.x is not supported
+2023-02-02 12:03:22.623 4516-4680/com.example.aftestallen D/HDM[dispDev]: RegisterDispDev:106: have register display device to dispDevProvider
+2023-02-02 12:03:22.624 4516-4680/com.example.aftestallen W/Gralloc4: allocator 4.x is not supported
+2023-02-02 12:03:22.625 4516-4680/com.example.aftestallen W/Gralloc3: allocator 3.x is not supported
+2023-02-02 12:03:22.703 4516-4516/com.example.aftestallen I/HwViewRootImpl: removeInvalidNode jank list is null
+2023-02-02 12:03:22.704 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379486
+2023-02-02 12:03:22.704 4516-4617/com.example.aftestallen D/OpenGLRenderer: disableOutlineDraw is true
+2023-02-02 12:03:22.725 4516-4516/com.example.aftestallen D/InsetsSourceConsumer: setControl mType:0, requestedVisible:true, getLeash:Surface(name=Surface(name=b92f692 StatusBar)/@0x6532476 - animation-leash of insets_animation)/@0xa3b0c31, needAnimation:false, mIsAnimationPending:false, getRootViewTitle:com.example.aftestallen/com.example.aftestallen.MainActivity
+2023-02-02 12:03:22.727 4516-4516/com.example.aftestallen W/InputMethodManager: startInputReason = 1
+2023-02-02 12:03:22.728 4516-4516/com.example.aftestallen W/HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+2023-02-02 12:03:22.741 4516-4516/com.example.aftestallen W/InputMethodManager: startInputReason = 6
+2023-02-02 12:03:22.781 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: ******* sendTrackingWithEvent: Launch
+2023-02-02 12:03:22.792 4516-4637/com.example.aftestallen W/AppsFlyer_6.9.0: Exception while collecting facebook's attribution ID. 
+2023-02-02 12:03:22.792 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: IMEI was not collected.
+2023-02-02 12:03:22.793 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: Android ID was not collected.
+2023-02-02 12:03:22.793 4516-4637/com.example.aftestallen D/AppsFlyer_6.9.0: No OAID library
+2023-02-02 12:03:22.825 4516-4637/com.example.aftestallen D/AppsFlyer_6.9.0: AppsFlyer: first launch detected
+2023-02-02 12:03:22.826 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: AppsFlyer: first launch date: 2023-02-02_040322+0000
+2023-02-02 12:03:22.827 4516-4637/com.example.aftestallen D/AppsFlyer_6.9.0: didConfigureTokenRefreshService=false
+2023-02-02 12:03:22.849 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: AppsFlyerLib.sendWithEvent
+2023-02-02 12:03:22.851 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: new task added: CONVERSION-5
+2023-02-02 12:03:22.851 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: starting task execution: CONVERSION-5
+2023-02-02 12:03:22.872 4516-4588/com.example.aftestallen I/AppsFlyer_6.9.0: CONVERSION-5: preparing data: {"country":"CN","af_timestamp":"1675310602743","appsflyerKey":"R********************E","isFirstCall":"true","registeredUninstall":false,"operator":"CMCC","isGaidWithGps":"true","app_version_code":"1","model":"ELS-AN00","brand":"HUAWEI","deviceType":"user","kef4850":"9c6bad7911ca7b564818181b0c531a0d5919190d5a1f1d","deviceData":{"sensors":[{"sT":2,"sVS":[-1.5625,-20.0625,-41.8125],"sV":"akm","sVE":[-1.625,-18.9375,-40.1875],"sN":"akm-akm09918"},{"sT":1,"sVS":[0.0071347207,-0.020800823,9.852149],"sV":"bosch","sVE":[-0.015964536,-0.014020445,9.810367],"sN":"accelerometer-bmi260"},{"sT":4,"sVS":[0.011187561,0.007958702,-0.0019198621],"sV":"bosch","sVE":[-0.007958702,-0.011187561,1.9198621E-4],"sN":"gyroscope-bmi260"}],"cpu_abi":"arm64-v8a","build_display_id":"ELS-AN00 3.0.0.192(C00E191R3P6)","btch":"usb","dim":{"size":"2","ydp":"441.157","xdp":"441.739","y_px":"2499","x_px":"1200","d_dpi":"530"},"arch":"","btl":"88.0","cpu_abi2":""},"exception_number":0,"disk":"110570\/234022","meta":{"rc":{"sig":"success","delay":397,"c_ver":"default.v1.1637149529","latency":388,"cdn_token":"fc21f9c811939f0fa4162eee055f5787efc0729376346950e99991848660989b","res_code":200},"first_launch":{"from_fg":346,"start_with":"application","init_to_fg":303}},"sdk":"31","app_version_name":"1.0","device":"HWELS","cksm_v1":"f9dd4572df924ac79f580d17148d0f95dd","rfr":{"val":"utm_source=google-play&utm_medium=organic","code":"0","clk":"0","install":"0","instant":false},"af_events_api":"1","cell":{"mnc":65535,"mcc":460},"network":"WIFI","timepassedsincelastlaunch":"-1","open_referrer":"android-app:\/\/com.android.shell","af_v2":"3c0892fd5802bf186efd99109b9901a4fc703d7e","sig":"C5104DD503EC3E69B7A5746A7973608CCD13EA36FB22495CE593A3E648AFE0D8","uid":"1675310602794-294131025741518267","lang_code":"zh","installDate":"2023-02-02_040321+0000","referrers":[{"api_ver":83421310,"referrer":"utm_source=google-play&utm_medium=organic","click_ts":0,"api_ver_name":"34.2.13-21 [0] [PR] 503494674","response":"OK","install_begin_ts":0,"google_custom":{"install_begin_server_ts":0,"install_version":null,"click_server_ts":0,"instant":false},"latency":355,"source":"google","type":"store"},{"api_ver":120701301,"api_ver_name":"12.7.1.301","response":"SERVICE_UNAVAILABLE","latency":53,"source":"huawei","type":"store"}],"firstLaunchDate":"2023-02-02_040322+0000","ivc":false,"lang":"中文","batteryLevel":"88.0","last_boot_time":1674266981587,"product":"ELS-AN00","date2":"2023-02-02_120321+0800","counter":"1","date1":"2023-02-02_120321+0800","advertiserId":"1cf9417a-4955-456a-9126-fdb1b0c58552","advertiserIdEnabled":"true","af_v":"86213b262b8a932a4a0b5b2aae8c79f5ca67f6f4","carrier":"中国移动","af_preinstalled":"false","iaecounter":"0","sc_o":"p","tokenRefreshConfigured":false,"appid":"com.example.aftestallen","platformextension":"android_native"}
+2023-02-02 12:03:22.878 4516-4588/com.example.aftestallen W/ple.aftestalle: Accessing hidden method Landroid/app/ActivityThread;->currentApplication()Landroid/app/Application; (unsupported, reflection, allowed)
+2023-02-02 12:03:22.880 4516-4588/com.example.aftestallen I/HwApiCacheMangerEx: apicache path=/storage/emulated/0 state=mounted key=com.example.aftestallen#10350#256
+2023-02-02 12:03:22.881 4516-4588/com.example.aftestallen I/HwApiCacheMangerEx: need clear apicache,because volumes changed,oldCnt=1 newCnt=1
+2023-02-02 12:03:22.896 4516-4588/com.example.aftestallen W/ple.aftestalle: Accessing hidden field Ldalvik/system/BaseDexClassLoader;->pathList:Ldalvik/system/DexPathList; (unsupported, reflection, allowed)
+2023-02-02 12:03:22.896 4516-4588/com.example.aftestallen W/ple.aftestalle: Accessing hidden field Ldalvik/system/DexPathList;->nativeLibraryDirectories:Ljava/util/List; (unsupported, reflection, allowed)
+2023-02-02 12:03:22.896 4516-4588/com.example.aftestallen W/ple.aftestalle: Accessing hidden field Ldalvik/system/DexPathList;->nativeLibraryPathElements:[Ldalvik/system/DexPathList$NativeLibraryElement; (unsupported, reflection, allowed)
+2023-02-02 12:03:23.359 4516-4588/com.example.aftestallen I/AppsFlyer_6.9.0: CACHE: caching request with URL: https://conversions.appsflyer.com/api/v6.9/androidevent?app_id=com.example.aftestallen&buildnumber=6.9.0
+2023-02-02 12:03:23.361 4516-4588/com.example.aftestallen I/AppsFlyer_6.9.0: CACHE: done, cacheKey: 1675310603359
+2023-02-02 12:03:23.361 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [227789245] POST:https://conversions.appsflyer.com/api/v6.9/androidevent?app_id=com.example.aftestallen&buildnumber=6.9.0
+     payload: <encrypted>
+2023-02-02 12:03:23.381 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 15
+2023-02-02 12:03:24.515 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [227789245] response code:200 OK
+     body:ok
+     took 1154ms
+2023-02-02 12:03:24.516 4516-4588/com.example.aftestallen I/AppsFlyer_6.9.0: CACHE: Deleting 1675310603359 from cache
+2023-02-02 12:03:24.517 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: execution finished for CONVERSION-5, result: SUCCESS
+2023-02-02 12:03:24.518 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: Value ok of type java.lang.String cannot be converted to JSONObject
+2023-02-02 12:03:24.520 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: new task added: GCDSDK-GCD-CHECK-6
+2023-02-02 12:03:24.521 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: starting task execution: GCDSDK-GCD-CHECK-6
+2023-02-02 12:03:24.521 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: [GCD-A01] Loading conversion data. Counter: 1
+2023-02-02 12:03:24.521 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: execution finished for GCDSDK-GCD-CHECK-6, result: FAILURE
+2023-02-02 12:03:24.522 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: new task added: GCDSDK-GCD-FETCH-7
+2023-02-02 12:03:24.522 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: starting task execution: GCDSDK-GCD-FETCH-7
+2023-02-02 12:03:24.523 4516-4588/com.example.aftestallen I/AppsFlyer_6.9.0: [GCD-B01] URL: https://gcdsdk.appsflyer.com/install_data/v4.0/com.example.aftestallen?devkey=R********************E&device_id=1675310602794-294131025741518267
+2023-02-02 12:03:24.523 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [64730520] GET:https://gcdsdk.appsflyer.com/install_data/v4.0/com.example.aftestallen?devkey=REaW4oazBFH6zuBNihvAWE&device_id=1675310602794-294131025741518267
+     Connection: close
+2023-02-02 12:03:26.028 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [64730520] response code:200 OK
+     body:{"is_universal_link": null, "adgroup": null, "match_type": "id_matching", "campaign": "None", "is_branded_link": null, "media_source": "appsflyer_sdk_test_int", "adset_id": null, "campaign_id": null, "esp_name": null, "iscache": true, "install_time": "2023-02-02 04:03:23.668", "adgroup_id": null, "redirect_response_data": null, "orig_cost": "0.0", "click_time": "2023-02-02 04:02:52.897", "agency": null, "cost_cents_USD": "0", "ts": "1675310558", "is_retargeting": "false", "advertising_id": "1cf9417a-4955-456a-9126-fdb1b0c58552", "adset": null, "clickid": "0f6a76a6-da4d-4e49-bda8-1e22ebfed935", "af_sub3": null, "af_r": "https://sdktest.appsflyer.com/sdk-integration-test/install/launch?sid=0f6a76a6-da4d-4e49-bda8-1e22ebfed935&store=androidOther", "engmnt_source": null, "af_siteid": null, "http_referrer": null, "retargeting_conversion_type": "none", "is_incentivized": "false", "af_sub5": null, "af_sub4": null, "af_cpi": null, "af_sub1": null, "af_click_lookback": "7d", "af_sub2": null, "af_status": "Non-organic"}
+     took 1505ms
+2023-02-02 12:03:26.033 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: [CrossPromotion] App was installed via null's Cross Promotion
+2023-02-02 12:03:26.036 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: [GCD-A03] Server retrieving attempt finished
+2023-02-02 12:03:26.036 4516-4588/com.example.aftestallen D/AppsFlyer_6.9.0: [GCD-A02] Calling onConversionDataSuccess with:
+    {redirect_response_data=null, adgroup_id=null, engmnt_source=null, retargeting_conversion_type=none, is_incentivized=false, orig_cost=0.0, is_first_launch=true, af_click_lookback=7d, af_cpi=null, iscache=true, click_time=2023-02-02 04:02:52.897, is_branded_link=null, match_type=id_matching, adset=null, campaign_id=null, install_time=2023-02-02 04:03:23.668, media_source=appsflyer_sdk_test_int, agency=null, advertising_id=1cf9417a-4955-456a-9126-fdb1b0c58552, clickid=0f6a76a6-da4d-4e49-bda8-1e22ebfed935, af_siteid=null, af_status=Non-organic, af_sub1=null, cost_cents_USD=0, af_sub5=null, af_r=https://sdktest.appsflyer.com/sdk-integration-test/install/launch?sid=0f6a76a6-da4d-4e49-bda8-1e22ebfed935&store=androidOther, af_sub4=null, af_sub3=null, af_sub2=null, adset_id=null, esp_name=null, campaign=None, http_referrer=null, is_universal_link=null, is_retargeting=false, adgroup=null, ts=1675310558}
+2023-02-02 12:03:26.036 4516-4588/com.example.aftestallen D/Allentest: onConversionDataSuccess
+2023-02-02 12:03:26.037 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: execution finished for GCDSDK-GCD-FETCH-7, result: SUCCESS
+2023-02-02 12:03:27.205 4516-4516/com.example.aftestallen I/AwareBitmapCacher: init lrucache size: 4194304 pid=4516
+2023-02-02 12:04:22.021 4516-4516/com.example.aftestallen I/Hwaps: APS: EventAnalyzed: initAPS: version is 11.0.0.4
+2023-02-02 12:04:22.023 4516-4516/com.example.aftestallen D/Hwaps: Fpsrequest create,type:EXACTLY_IDENTIFY
+2023-02-02 12:04:22.023 4516-4516/com.example.aftestallen D/Hwaps: Fpsrequest create,type:EXACTLY_IDENTIFY
+2023-02-02 12:04:22.023 4516-4516/com.example.aftestallen D/Hwaps: Fpsrequest create,type:OPENGL_SETTING
+2023-02-02 12:04:22.024 4516-4516/com.example.aftestallen D/Hwaps: FpsController create
+2023-02-02 12:04:22.031 4516-4516/com.example.aftestallen D/Hwaps: APS: EventAnalyzed: reInitFpsPara :mBaseFps = 90; mMaxFps = 90
+2023-02-02 12:04:22.035 4516-4516/com.example.aftestallen W/Settings: Setting device_provisioned has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+2023-02-02 12:04:22.038 4516-4516/com.example.aftestallen V/HiTouch_HiTouchSensor: User setup is finished.
+2023-02-02 12:04:22.048 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379499
+2023-02-02 12:04:22.053 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379499
+2023-02-02 12:04:22.054 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379499
+2023-02-02 12:04:22.067 4516-4516/com.example.aftestallen W/HwApsManager: HwApsManagerService, registerCallback, start !
+2023-02-02 12:04:22.069 4516-4516/com.example.aftestallen D/Hwaps: APS: EventAnalyzed: registerCallbackInApsManagerService, mPkgName:com.example.aftestallen; result = true
+2023-02-02 12:04:22.070 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379502
+2023-02-02 12:04:22.071 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379502
+2023-02-02 12:04:22.155 4516-4516/com.example.aftestallen I/HwViewRootImpl: removeInvalidNode all the node in jank list is out of time
+2023-02-02 12:04:22.156 4516-4516/com.example.aftestallen V/AudioManager: querySoundEffectsEnabled...
+2023-02-02 12:04:22.158 4516-4516/com.example.aftestallen I/AudioManager: querySoundEffectsEnabled fail id: 0
+2023-02-02 12:04:22.159 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: sendWithEvent from activity: com.example.aftestallen.MyApplication
+2023-02-02 12:04:22.159 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: Trying to fetch GAID..
+2023-02-02 12:04:22.170 4516-4637/com.example.aftestallen W/ContextImpl: Failed to ensure /data/user/0/com.google.android.gms/shared_prefs: mkdir failed: ENOENT (No such file or directory)
+2023-02-02 12:04:22.189 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: ******* sendTrackingWithEvent: af_purchase
+2023-02-02 12:04:22.192 4516-4637/com.example.aftestallen W/AppsFlyer_6.9.0: Exception while collecting facebook's attribution ID. 
+2023-02-02 12:04:22.192 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: IMEI was not collected.
+2023-02-02 12:04:22.192 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: Android ID was not collected.
+2023-02-02 12:04:22.192 4516-4637/com.example.aftestallen D/AppsFlyer_6.9.0: No OAID library
+2023-02-02 12:04:22.198 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: AppsFlyer: first launch date: 2023-02-02_040322+0000
+2023-02-02 12:04:22.198 4516-4637/com.example.aftestallen D/AppsFlyer_6.9.0: didConfigureTokenRefreshService=false
+2023-02-02 12:04:22.220 4516-4637/com.example.aftestallen I/AppsFlyer_6.9.0: AppsFlyerLib.sendWithEvent
+2023-02-02 12:04:22.221 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: new task added: INAPP-8
+2023-02-02 12:04:22.221 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: starting task execution: INAPP-8
+2023-02-02 12:04:22.226 4516-4583/com.example.aftestallen I/AppsFlyer_6.9.0: INAPP-8: preparing data: {"country":"CN","af_timestamp":"1675310662184","appsflyerKey":"R********************E","af_events_api":"1","kef4f5c":"df1b05941f53b0f24818181b0c531a0d5919190d5a1f1c","isFirstCall":"false","registeredUninstall":false,"cell":{"mnc":65535,"mcc":460},"operator":"CMCC","network":"WIFI","af_v2":"8d75a27097368d0efeca661e5a6349fa83c6358e","sig":"C5104DD503EC3E69B7A5746A7973608CCD13EA36FB22495CE593A3E648AFE0D8","uid":"1675310602794-294131025741518267","eventValue":"{\"af_price\":1234.56,\"af_content_id\":\"1234567\"}","isGaidWithGps":"true","lang_code":"zh","installDate":"2023-02-02_040321+0000","app_version_code":"1","firstLaunchDate":"2023-02-02_040322+0000","ivc":false,"eventName":"af_purchase","model":"ELS-AN00","lang":"中文","brand":"HUAWEI","deviceType":"user","last_boot_time":1674266981586,"product":"ELS-AN00","deviceData":{"cpu_abi":"arm64-v8a","build_display_id":"ELS-AN00 3.0.0.192(C00E191R3P6)","dim":{"size":"2","ydp":"441.157","xdp":"441.739","y_px":"2499","x_px":"1200","d_dpi":"530"},"arch":"","cpu_abi2":""},"date2":"2023-02-02_120321+0800","counter":"1","date1":"2023-02-02_120321+0800","advertiserId":"1cf9417a-4955-456a-9126-fdb1b0c58552","advertiserIdEnabled":"true","af_v":"59deb0c9393e3953a781e49ce13bf732d80b3f1d","carrier":"中国移动","disk":"110571\/234022","sensors":{"mm":{"v":[[-94.4,-41.8],[-2.1,1.1]],"n":"akm-akm09918"},"am":{"v":[[0,-0,9.8],[-0,0,0]],"n":"accelerometer-bmi260"},"gs":{"v":[[0,0,-0],[-0,-0,0]],"n":"gyroscope-bmi260"}},"af_preinstalled":"false","iaecounter":"1","sc_o":"p","tokenRefreshConfigured":false,"appid":"com.example.aftestallen","sdk":"31","app_version_name":"1.0","device":"HWELS","platformextension":"android_native","cksm_v1":"50ed91a3288c94923fb9daf63ff37f2e61"}
+2023-02-02 12:04:22.455 4516-4583/com.example.aftestallen I/AppsFlyer_6.9.0: CACHE: caching request with URL: https://inapps.appsflyer.com/api/v6.9/androidevent?app_id=com.example.aftestallen&buildnumber=6.9.0
+2023-02-02 12:04:22.456 4516-4583/com.example.aftestallen I/AppsFlyer_6.9.0: CACHE: done, cacheKey: 1675310662455
+2023-02-02 12:04:22.457 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [260548190] POST:https://inapps.appsflyer.com/api/v6.9/androidevent?app_id=com.example.aftestallen&buildnumber=6.9.0
+     payload: <encrypted>
+2023-02-02 12:04:23.057 4516-4583/com.example.aftestallen D/AppsFlyer_6.9.0: HTTP: [260548190] response code:200 OK
+     body:ok
+     took 600ms
+2023-02-02 12:04:23.058 4516-4583/com.example.aftestallen D/allentest: onSuccess     
+2023-02-02 12:04:23.058 4516-4583/com.example.aftestallen I/AppsFlyer_6.9.0: CACHE: Deleting 1675310662455 from cache
+2023-02-02 12:04:23.060 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: QUEUE: execution finished for INAPP-8, result: SUCCESS
+2023-02-02 12:04:23.060 4516-4582/com.example.aftestallen D/AppsFlyer_6.9.0: Value ok of type java.lang.String cannot be converted to JSONObject
+2023-02-02 12:06:45.317 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 15
+2023-02-02 12:07:48.582 4516-4516/com.example.aftestallen W/InputMethodManager: startInputReason = 9
+2023-02-02 12:07:48.598 4516-4516/com.example.aftestallen W/HwRemoteInputMethodManager: isCasting false because IHwDistributedWindowManager is invalid.
+2023-02-02 12:07:48.851 4516-4516/com.example.aftestallen I/TopResumedActivityChangeItem: execute start, ActivityClientRecord = ActivityRecord{af47363 token=android.os.BinderProxy@a3c57f3 {com.example.aftestallen/com.example.aftestallen.MainActivity}}
+2023-02-02 12:07:48.972 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 20
+2023-02-02 12:07:48.973 4516-4516/com.example.aftestallen E/InputTransport: channel 'bf6df99 com.example.aftestallen/com.example.aftestallen.MainActivity (client)' ~ receive message failed, errno=11, seq = 379505
+2023-02-02 12:07:49.439 4516-7882/com.example.aftestallen I/AppsFlyer_6.9.0: onBecameBackground
+2023-02-02 12:07:49.440 4516-7882/com.example.aftestallen I/AppsFlyer_6.9.0: callStatsBackground background call
+2023-02-02 12:07:49.440 4516-7882/com.example.aftestallen I/AppsFlyer_6.9.0: app went to background
+2023-02-02 12:07:49.442 4516-7882/com.example.aftestallen D/AppsFlyer_6.9.0: Stats call is disabled, ignore ...
+2023-02-02 12:07:49.442 4516-7882/com.example.aftestallen D/AppsFlyer_6.9.0: RD status is OFF
+2023-02-02 12:07:49.568 4516-4516/com.example.aftestallen I/RmeSchedManager: init Rme, version is: v1.0
+2023-02-02 12:07:53.979 4516-4516/com.example.aftestallen I/AwareBitmapCacher: handleReleaseCache: pid=4516
+2023-02-02 12:07:53.979 4516-4516/com.example.aftestallen I/AwareBitmapCacher: init lrucache size: 4194304 pid=4516
+2023-02-02 12:17:49.799 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 5
+2023-02-02 12:17:53.824 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 5
+2023-02-02 12:18:11.859 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 5
+2023-02-02 12:23:14.145 4516-4516/com.example.aftestallen I/WindowManager: trimMemory level: 5
