@@ -1,7 +1,7 @@
 # AFtestAllen
 Hi Appsflyer team,
 I have test the Non-organic and purchase inapp event succesully.
-Please check the screenshot as belowed and the scoure code in this repo
+Please check the screenshot as belowed and the log in root dir in this repo
 
 ![Non-organic](non-organic.png)  
 
